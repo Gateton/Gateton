@@ -71,7 +71,7 @@
 
 <details open>
 <summary><b>☁️ Database & Cloud</b></summary>
-<div style="display: flex; gap: 20px; justify-content: center; margin: 25px 0; flex-wrap: wrap;">
+<div style="display: flex; gap: 25px; justify-content: center; margin: 25px 0; flex-wrap: wrap;">
 
 <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
 <img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="MySQL" />
