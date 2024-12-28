@@ -1,3 +1,28 @@
+<div align="center">
+  <img src="your-banner-image.png" alt="banner" width="100%"/>
+  
+  # 👨‍💻 Thomas Repka | @Gateton
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](http://thomasrepka.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomasrepka1@hotmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gateton)
+</div>
+
+## 🚀 About Me
+
+> "Passionate developer since 2017, crafting digital experiences that combine elegant frontend design with robust backend solutions. I transform ideas into scalable and efficient systems, always pushing the boundaries of what's possible in web development."
+
+<details>
+<summary>More about me</summary>
+
+* 🌍 Based in Asuncion, Paraguay
+* 💼 Currently building amazing things at [KODE](http://kode.com.py)
+* 🎯 Learning advanced AI integrations for web applications
+* ☕ Powered by coffee and clean code
+* 🤝 Open to collaborate on interesting projects
+</details>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -116,3 +141,22 @@ summary:hover {
   transform: translateX(10px);
 }
 </style>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gateton&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gateton&theme=radical" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gateton&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=gateton&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  
+  ### 💖 Thanks for visiting! Let's connect and build something amazing together.
+</div>
