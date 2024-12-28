@@ -12,7 +12,6 @@
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-```javascript
 const thomas = {
     location: "Asunción, Paraguay 🇵🇾",
     currentRole: "Full Stack Developer at KODE",
@@ -22,8 +21,6 @@ const thomas = {
 };
 
 
-PARTE 2:
-```markdown
 ### 🛠️ Technology Arsenal
 
 <div align="center">
