@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="your-banner-image.png" alt="banner" width="100%"/>
+
   
   # 👨‍💻 Thomas Repka | @Gateton
   
