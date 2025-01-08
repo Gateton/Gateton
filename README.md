@@ -101,7 +101,5 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <a href="http://www.github.com/gateton"><img src="https://github-readme-stats.vercel.app/api?username=gateton&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="GitHub Stats" /></a>
-  <a href="http://www.github.com/gateton"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gateton&theme=react" alt="GitHub Streak" /></a>
   <a href="http://www.github.com/gateton"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gateton&layout=compact&theme=react" alt="Top Languages" /></a>
 </div>
