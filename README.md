@@ -36,6 +36,7 @@
 <div align="center">
 
 [![commit](https://img.shields.io/badge/commit-48c05e0c-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NousResearch/hermes-agent/commit/48c05e0c6b2d1ccc871936959c1d083e64a8f906)
+[![PR #81977](https://img.shields.io/badge/PR%20%2381977-merged-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NousResearch/hermes-agent/pull/81977)
 
 </div>
 
