@@ -23,6 +23,24 @@
 
 ---
 
+## 🤝 Open Source
+
+<div align="center">
+
+[![NousResearch/hermes-agent](https://img.shields.io/badge/NousResearch%2Fhermes--agent-Contributor-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NousResearch/hermes-agent)
+
+</div>
+
+> Diagnosed and fixed a Wayland-in-VM bug where the Electron desktop window never appeared — `ready-to-show` never fires on some Wayland compositors in VMs. Added a 4-second fallback that force-shows the window when the event never arrives. Merged into `main` as a co-author.
+
+<div align="center">
+
+[![commit](https://img.shields.io/badge/commit-48c05e0c-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NousResearch/hermes-agent/commit/48c05e0c6b2d1ccc871936959c1d083e64a8f906)
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
