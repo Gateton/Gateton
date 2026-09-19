@@ -115,10 +115,5 @@
 
 </div>
 
----
 
-## 📈 GitHub Stats
 
-<div align="center">
-  <a href="http://www.github.com/gateton"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gateton&layout=compact&theme=react" alt="Top Languages" /></a>
-</div>
