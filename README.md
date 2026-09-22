@@ -1,29 +1,28 @@
 <div align="center">
 
   
-  # 👨‍💻 Thomas Repka | @Gateton
+  # Thomas Repka | @Gateton
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](http://thomasrepka.com)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomasrepka1@hotmail.com)
 </div>
 
-## 🚀 About Me
+##  About Me
 
 > "Passionate developer since 2017, crafting digital experiences that combine elegant frontend design with robust backend solutions. I transform ideas into scalable and efficient systems, always pushing the boundaries of what's possible in web development."
 
 <details>
 <summary>More about me</summary>
 
-* 🌍 Based in Asuncion, Paraguay
-* 💼 Currently building amazing things at [KODE](http://kode.com.py)
-* 🎯 Learning advanced AI integrations for web applications
-* ☕ Powered by coffee and clean code
-* 🤝 Open to collaborate on interesting projects
+* Currently building amazing things at [KODE](http://kode.com.py)
+* Learning advanced AI integrations for web applications
+*  Powered by coffee 
+*  Open to collaborate on interesting projects
 </details>
 
 ---
 
-## 🤝 Open Source
+## Open Source
 
 <div align="center">
 
@@ -61,7 +60,7 @@
 </details>
 
 <details open>
-<summary><b>🎨 Frontend Development</b></summary>
+<summary><b> Frontend Development</b></summary>
 <div style="display: flex; gap: 20px; justify-content: center; margin: 25px 0; flex-wrap: wrap;">
 
 <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
@@ -89,7 +88,7 @@
 </details>
 
 <details open>
-<summary><b>☁️ Database & Cloud</b></summary>
+<summary><b> Database & Cloud</b></summary>
 <div style="display: flex; gap: 25px; justify-content: center; margin: 25px 0; flex-wrap: wrap;">
 
 <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
@@ -101,7 +100,7 @@
 </details>
 
 <details open>
-<summary><b>🎨 Design & Tools</b></summary>
+<summary><b> Design & Tools</b></summary>
 <div style="display: flex; gap: 20px; justify-content: center; margin: 25px 0; flex-wrap: wrap;">
 
 <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Figma" />
